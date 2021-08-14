@@ -34,5 +34,9 @@ Google (Guido van Rossum a travaillé pour Google de 2005 à 2012), Yahoo, Micro
 ## Installation
 L'installation de Python est généralement facile, et de nos jours, de nombreuses distributions Linux et UNIX incluent un Python récent. Même certains ordinateurs Windows (notamment ceux de HP) sont désormais livrés avec Python déjà installé. Si vous avez besoin d'installer Python et n'êtes pas sûr de la tâche que vous pouvez trouver quelques notes sur le BeginnersGuide / Télécharger la page wiki, mais l' installation est sans particularité sur la plupart des plateformes.
 
+## Installation
+
+virtualenv est un outil CLI qui nécessite un interpréteur Python pour fonctionner. Si vous avez déjà un interpréteur, le mieux est d'utiliser pipx pour installer virtualenv dans un environnement isolé. Cela a l'avantage supplémentaire que vous pourrez plus tard mettre à niveau virtualenv sans affecter les autres parties du système
+
 
 
