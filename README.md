@@ -31,7 +31,7 @@ Qui utilise Python?
 
 Google (Guido van Rossum a travaillé pour Google de 2005 à 2012), Yahoo, Microsoft, la Nasa revendique l'utilisation de Python, pour ne citer qu'eux.
 
-## Installation
+## Installation de python
 L'installation de Python est généralement facile, et de nos jours, de nombreuses distributions Linux et UNIX incluent un Python récent. Même certains ordinateurs Windows (notamment ceux de HP) sont désormais livrés avec Python déjà installé. Si vous avez besoin d'installer Python et n'êtes pas sûr de la tâche que vous pouvez trouver quelques notes sur le BeginnersGuide / Télécharger la page wiki, mais l' installation est sans particularité sur la plupart des plateformes.
 
 ## Installation
