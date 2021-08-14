@@ -36,7 +36,7 @@ L'installation de Python est généralement facile, et de nos jours, de nombreus
 
 ## Installation pip 
 
-## Installation
+## Installation machine virtuelle
 
 virtualenv est un outil CLI qui nécessite un interpréteur Python pour fonctionner. Si vous avez déjà un interpréteur, le mieux est d'utiliser pipx pour installer virtualenv dans un environnement isolé. Cela a l'avantage supplémentaire que vous pourrez plus tard mettre à niveau virtualenv sans affecter les autres parties du système
 
