@@ -35,8 +35,7 @@ Google (Guido van Rossum a travaillé pour Google de 2005 à 2012), Yahoo, Micro
 L'installation de Python est généralement facile, et de nos jours, de nombreuses distributions Linux et UNIX incluent un Python récent. Même certains ordinateurs Windows (notamment ceux de HP) sont désormais livrés avec Python déjà installé. Si vous avez besoin d'installer Python et n'êtes pas sûr de la tâche que vous pouvez trouver quelques notes sur le BeginnersGuide / Télécharger la page wiki, mais l' installation est sans particularité sur la plupart des plateformes.
 
 ## Installation pip 
-pip est l’outil d’installation de prédilection. À partir de Python 3.4, il est inclus par défaut avec l’installateur de Python.
-
+PIP est un système de gestion de packages utilisé pour installer et gérer des packages logiciels écrits en Python. Il signifie "programme d'installation préféré" ou "Pip Installs Packages".
 ## Installation machine virtuelle
 
 Un environnement virtuel est un environnement Python semi-isolé qui autorise les paquets à être installés pour une application particulière, plutôt que d’être installés au niveau du système.
