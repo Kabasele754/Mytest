@@ -36,6 +36,8 @@ L'installation de Python est généralement facile, et de nos jours, de nombreus
 
 ## Installation pip 
 PIP est un système de gestion de packages utilisé pour installer et gérer des packages logiciels écrits en Python. Il signifie "programme d'installation préféré" ou "Pip Installs Packages".
+
+PIP pour Python est un utilitaire pour gérer les installations de packages PyPI à partir de la ligne de commande.
 ## Installation machine virtuelle
 
 Un environnement virtuel est un environnement Python semi-isolé qui autorise les paquets à être installés pour une application particulière, plutôt que d’être installés au niveau du système.
