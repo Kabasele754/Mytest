@@ -5,3 +5,14 @@ Donnons des exemples : Pour augmenter de 3 tous les éléments d'une liste de no
 
 ma_liste_de_nombres = [1, 2, 3, 4, 5]
 print([ n + 3 for n in ma_liste_de_nombres ])
+
+'''
+Si je veux la somme des carrés des entiers de 1 à 10, je peux par exemple faire :
+
+print(sum( [ n**2 for n in range(1,11) ] ))
+
+Si je veux les longueurs des mots d'une liste de mots :
+
+ma_liste_de_mots = [ "Cosinus", "Sinus", "Tangente", "Cotangente" ]
+print([ len(mot) for mot in ma_liste_de_mots])
+'''
