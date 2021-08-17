@@ -11,3 +11,7 @@ liste = [ "T", "e", "x", "t", "e" ]
 for i, c in enumerate(liste):
     print(i,c)
 
+'''
+grille= [[1,2,3],[4,5,6],[7,8,9]]
+print(grille[2][1])
+'''
