@@ -32,3 +32,12 @@ De plus, si on fait une opération sur cette liste comme par exemple multiplier 
 cette opération sera automatiquement appliquée à chaque terme de la liste (ce qui n'est pas vrai si on utilise une liste classique).
 Par exemple, traçons la fonction définie par y = 2x²+3x-4 entre -2 et 2 en utilisant 100 points :
 '''
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(-2, 2, 100)
+y = 2*x**2+3*x-4
+
+plt.plot(x,y)
+plt.show()
