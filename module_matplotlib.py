@@ -53,3 +53,12 @@ logarithme... Dans ce cas on ne peut pas faire exactement comme dans l'exemple p
     correspondants aux x c'est à dire créer une liste composée des f(x) pour x dans la liste des abscisses.
     Par exemple si on veut tracer la fonction y = cos(x) + 3 sin(2x) entre -4 et 4, on pourra faire ainsi :
 '''
+
+import matplotlib.pyplot as plt
+import numpy as np
+from math import *
+
+abscisses = np.linspace(-4,4,100)
+ordonnées = [cos(x)+3*sin(2*x) for x in abscisses]
+plt.plot(abscisses,ordonnées)
+plt.show()
