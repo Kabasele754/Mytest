@@ -1,0 +1,3 @@
+'''
+Les fonctions de base
+'''
