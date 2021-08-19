@@ -11,6 +11,7 @@ l'afficher avec print).
 plt.plot(liste_x,liste_y) : Où liste_x est une liste de nombres [x_1, x_2, ..., x_n] 
 et liste_y une liste de nombres [y_1, y_2, ..., y_n] avec le même nombre d'éléments. Alors plt.plot(liste_x,liste_y) placera les points de coordonnées (x_1,y_1), (x_2,y_2), ..., (x_n, y_n) et les reliera de proche en proche par un 
 segment. Voici un exemple où on relie les points (1;2), (3;1) et (4;6) :
+
 '''
 
 import matplotlib.pyplot as plt
@@ -19,3 +20,15 @@ import numpy as np
 plt.plot([1,3,4],[2,1,6])
 
 plt.show()
+
+'''
+Vous pouvez modifier les listes de points dans le programme ci-dessus pour voir le résultat.
+L'idée pour tracer une fonction va donc être de placer beaucoup de points de la courbe 
+qu'on veut représenter assez proches pour qu'on ne voit pas qu'ils sont reliés par une droite.
+
+np.linspace(debut, fin, N) : C'est ici que le module numpy intervient. 
+Pour tracer correctement une fonction, il va nous falloir beaucoup de points qu'il est hors de question de rentrer à la main comme dans l'exemple précédent. La fonction np.linspace(debut, fin, nombre) permet de créer une liste de N nombres qui commencent à la valeur debut et s'arrête à la valeur fin et uniformément répartis.
+De plus, si on fait une opération sur cette liste comme par exemple multiplier par 2, alors 
+cette opération sera automatiquement appliquée à chaque terme de la liste (ce qui n'est pas vrai si on utilise une liste classique).
+Par exemple, traçons la fonction définie par y = 2x²+3x-4 entre -2 et 2 en utilisant 100 points :
+'''
