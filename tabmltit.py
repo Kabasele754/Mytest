@@ -1,3 +1,7 @@
+'''
+La table de multiplication avec la fonction range
+'''
+
 for x in range(1,13):
 
 	print("Table de multication par :", x)
