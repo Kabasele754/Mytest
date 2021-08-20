@@ -1,3 +1,9 @@
+'''
+La mise en place de la calculatrice avec python
+
+Cette calculatrice fonction avec le module tkinter que j'ai installé dans la machine virtuelle que je n'ai nommé venv mo
+'''
+
 From tkinter import *
 
 def btnCliick(number):
