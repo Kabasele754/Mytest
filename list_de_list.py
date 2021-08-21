@@ -15,3 +15,6 @@ for i, c in enumerate(liste):
 grille= [[1,2,3],[4,5,6],[7,8,9]]
 print(grille[2][1])
 '''
+
+def add_list(a,b):
+    return a*b
