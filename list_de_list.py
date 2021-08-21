@@ -19,5 +19,5 @@ print(grille[2][1])
 def add_list(a,b):
     return a*b
 
-Outup = liste(map(add_list([4,3,6],[8,9,2])))
+outup = liste(map(add_list([4,3,6],[8,9,2])))
 print(outup)
