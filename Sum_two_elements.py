@@ -1,3 +1,5 @@
+import functools as fts
+
 '''
 Pour la somme de deux nombres
 '''
