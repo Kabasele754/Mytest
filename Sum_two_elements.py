@@ -2,6 +2,7 @@ import functools as fts
 
 '''
 Pour la somme de deux nombres
+Cette fonction permet de faire la somme de plus élément passer dans une liste
 '''
 def sum_two_elements(a,b):
     return a+b
