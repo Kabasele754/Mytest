@@ -32,7 +32,7 @@ Qui utilise Python?
 Google (Guido van Rossum a travaillé pour Google de 2005 à 2012), Yahoo, Microsoft, la Nasa revendique l'utilisation de Python, pour ne citer qu'eux.
 
 ## Installation de python
-L'installation de Python est généralement facile, et de nos jours, de nombreuses distributions Linux et UNIX incluent une version récente de Python. Même certains ordinateurs Windows (notamment ceux de HP) sont désormais livrés avec Python déjà installé.
+### La procédure d'installation de Python sous Windows
 
 ## Installation pip 
 PIP est un système de gestion de packages utilisé pour installer et gérer des packages logiciels écrits en Python. Il signifie "programme d'installation préféré" ou "Pip Installs Packages".
