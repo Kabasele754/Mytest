@@ -34,6 +34,8 @@ Google (Guido van Rossum a travaillé pour Google de 2005 à 2012), Yahoo, Micro
 ## Installation de python
 ### La procédure d'installation de Python sous Windows
 
+La procédure d'installation de Python sous environnement Windows est relativement simple. Veuillez suivre les étapes suivantes.
+
 ## Installation pip 
 PIP est un système de gestion de packages utilisé pour installer et gérer des packages logiciels écrits en Python. Il signifie "programme d'installation préféré" ou "Pip Installs Packages".
 
