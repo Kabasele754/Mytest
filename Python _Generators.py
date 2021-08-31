@@ -10,7 +10,11 @@ def  generator_example1 ():
 '''
 Performances du générateur Python
 
-Une chose à noter ici est que les générateurs Python sont plus lents que la compréhension de liste Python si la mémoire est assez grande pour le calcul. Regardons ci-dessous deux exemples du point de vue de la performance.
+Une chose à noter ici est que les générateurs Python sont plus lents que la compréhension de liste Python si la mémoire est assez grande pour le calcul. Regardons ci-dessous deux exemples 
+du point de vue de la performance.
+
+import sys
+
 
 '''
 
