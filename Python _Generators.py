@@ -7,4 +7,8 @@ def  generator_example1 ():
     while  True : 
         return  count 
         count += 1
+'''
+Performances du générateur Python
+
+'''
 
