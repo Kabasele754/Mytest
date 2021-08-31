@@ -15,6 +15,11 @@ du point de vue de la performance.
 
 import sys
 
+#Python List comprehension
+
+sequence = [x for x in range(1,1000000)]
+sys.getsizeof(sequence)
+
 
 '''
 
