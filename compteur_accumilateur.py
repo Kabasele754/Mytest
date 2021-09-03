@@ -1,7 +1,6 @@
 
 def compteur_accumulateur(nbr:int):
-    # initialisation de variables compteur et à
-Accumulateur
+    # initialisation de variables compteur et à accumulateur
     compteur = 0
     accumulateur = 0
     
