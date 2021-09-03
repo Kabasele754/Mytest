@@ -7,6 +7,7 @@ def compteur_accumulateur(nbr:int):
     while compteur < nbr:
        # tant que le compteur est inférieure au nombre passé dans le paramètre de la fonction 
        compteur = compteur +1
+       # l'accumulateur conserve le résultat de la boucle
        accumulateur = accumulateur + compteur
     
 
