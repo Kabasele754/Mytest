@@ -12,7 +12,7 @@ def somme(n):
     else :
         return somme(n-1)+n
 
-'''
+"""
 Détaillons ce qu'il se passe lorsqu'on le lance :
 
     Pour calculer somme(3) :
@@ -23,4 +23,4 @@ Détaillons ce qu'il se passe lorsqu'on le lance :
    5  Maintenant qu'on connait le résultat de somme(2), on peut calculer somme(2)+3. de l'étape 1 ce qui nous donne 6 comme valeur pour somme(3). Comme c'était la valeur demandée initialement, le programme renvoie 6.
     Comme on peut le voir les calculs effectués sont plus long à expliquer que le programme en lui même. C'est l'intérêt d'une écriture récursive : c'est l'ordinateur qui a à gérer la complexité de ce qu'il se passe, nous on a juste à lui expliquer comment passer d'une étape à l'autre.
 
-'''
+"""
