@@ -1,7 +1,7 @@
-'''
+"""
 separateur.join(liste) : L'exact contraire de split(). 
 Crée un texte à partir d'une liste de mots en intercalant entre chaque mot le separateur.
-'''
+"""
 
 
 print(" / ".join( ["Janvier", "Février", "Mars", "Avril" ]))
