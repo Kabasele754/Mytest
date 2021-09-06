@@ -1,6 +1,6 @@
-'''
+"""
 La table de multiplication avec la fonction range
-'''
+"""
 
 for x in range(1,13):
 
