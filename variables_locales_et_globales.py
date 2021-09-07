@@ -12,6 +12,6 @@ fonction(3)
 print(a)
 
 """
-J'obtiendrais que a n'existe pas. Le a à l'intérieur de la fonction est ce qu'on appelle une variable locale qui n'existe que dans la fonction pas en dehors.
+J'obtiendrais que sa n'existe pas. Le a à l'intérieur de la fonction est ce qu'on appelle une variable locale qui n'existe que dans la fonction pas en dehors.
 Encore pire :
 """
