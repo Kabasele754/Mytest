@@ -8,6 +8,7 @@ Par exemple si je lance ceci :
 a=18
 def fonction(n):
     a=n+1
+
 fonction(3)
 print(a)
 
