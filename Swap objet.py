@@ -6,7 +6,7 @@ left, right = right, left
 
 """
 Par exemple :
-a,b = a,b
+a,b = b,a
 
 """
 Alors, comment ça marche? 
