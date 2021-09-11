@@ -6,7 +6,11 @@ left, right = right, left
 
 """
 Par exemple :
+
+a,b = 5,8
 a,b = b,a
+
+
 
 """
 Alors, comment ça marche? 
