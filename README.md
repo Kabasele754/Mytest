@@ -3,6 +3,7 @@
 Python est un langage de programmation extrêmement polyvalent. Vous pouvez l'utiliser pour créer des sites Web, des algorithmes de Machine Learning et même des drones autonomes. Un pourcentage énorme de programmeurs dans le monde utilise Python. Cela vous donne le pouvoir de créer presque n'importe quoi. Mais vous devez d'abord l'apprendre. Apprendre n'importe quel langage de programmation peut être intimidant. Alors, comment apprendre Python ?
 
 Python c'est quoi?
+
 Python est un langage de programmation inventé par Guido van Rossum. La première version de python est sortie en 1991.
 
 Python est un langage de programmation interprété, c'est-à-dire qu'il n'est pas nécessaire de le compiler avant de l'exécuter. Si vous avez déjà touché un peu à la programmation, vous verrez que ce langage possède une certaine poésie. Les programmeurs s'amusent souvent à trouver la manière la plus jolie/efficace d'écrire une suite d'instructions. Rares sont ceux qui critiquent la logique Python -contrairement à javascript par exemple-.
