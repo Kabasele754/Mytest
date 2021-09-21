@@ -1,0 +1,7 @@
+x=int(input(" enter the number of opration "))
+if x==1 :
+   c=int(input("enter the c")
+   print("°F=", ((c * 9) / (5 + 32))
+if x==2 :
+   f=int(input("enter the f")
+   print("°C=",((f-32)*(5/9)))
