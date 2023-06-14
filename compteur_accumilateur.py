@@ -11,4 +11,4 @@ def compteur_accumulateur(nbr:int):
        accumulateur = accumulateur + compteur
     
 
-   return accumulateur
+    return accumulateur
